@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+/* ============================ Dung cho ca trang web ========================== */
+a {
+    text-decoration: none;
+}
+.main-content{
+    
+}
